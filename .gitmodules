@@ -1,0 +1,3 @@
+[submodule "kurakura-api"]
+	path = kurakura-api
+	url = git@github.com:linhphandk/kurakura-api.git
